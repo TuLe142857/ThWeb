@@ -1,0 +1,21 @@
+/* Header.css */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+  }
+  
+  .header-container a {
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .header-container button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
